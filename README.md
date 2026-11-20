@@ -1,7 +1,7 @@
 # LinkScanner
 
 <p align="center">
-  <img src="assets/images/linkscanner_app_icon.png" width="160" alt="LinkScanner Logo">
+  <img src="https://github.com/user-attachments/assets/fd843bd6-1086-4f71-b38f-d8cfe72770fc" width="160" alt="LinkScanner Logo">
 </p>
 
 <h2 align="center">Scan. Enhance. Convert. Share.</h2>
